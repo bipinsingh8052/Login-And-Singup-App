@@ -1,0 +1,7 @@
+node_modules
+*.log
+.git
+.gitignore
+eas.json
+README.md
+assets/raw/*
